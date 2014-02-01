@@ -339,8 +339,8 @@
 	.contactbox {
 		width: 30%;
 		float: left;
-		margin-right: -4em;
 		margin-bottom: 5em;
+		margin-left: -3px;
 		border: 2px solid #ccc;
 	}
 
@@ -374,8 +374,6 @@
 	 .container section {
 	 	margin-bottom: 3em;
 	 }
-
-	
 
 
 
