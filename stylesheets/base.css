@@ -275,12 +275,15 @@
 
 	#footer {
 		height: 3em;
-/*		position: absolute;*/
-		bottom: 1em;
-		left: 2em;
-		width: inherit;
+		position: absolute;
+/*		bottom: 1em;
+		left: 2em;*/
+		bottom: 0;
+		left: 0;
+		width: 100%;
 		text-align: center;
 		font-size: .75em;
+		margin-top: 2em;
 	} 
 
 	#footer p {
@@ -337,6 +340,7 @@
 		width: 30%;
 		float: left;
 		margin-right: -4em;
+		margin-bottom: 5em;
 		border: 2px solid #ccc;
 	}
 
@@ -366,6 +370,11 @@
 		font-size: 1.2em;
 		margin-bottom: .5em;
 	}
+ 
+	 .container section {
+	 	margin-bottom: 3em;
+	 }
+
 	
 
 
