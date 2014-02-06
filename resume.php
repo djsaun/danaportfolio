@@ -1,16 +1,13 @@
-<?php include 'includes/meta.html'; ?>
-
-	<div class="container">
-		<header class="container sixteen columns">
-			<h1>Dana Saunders' Teaching Portfolio<h1>
-			<h3>A Teacher in the Making – Resume</h3	>
-			<img src="" alt="Banner image" width="" height="">
-		</header>
-		<?php include 'includes/headernav.html'; ?>
+<?php 
+$headerOne = "A Teacher in the Making – Résumé";
+$section = "resume"; 
+include 'includes/meta.html'; 
+include 'includes/headernav.php'; 
+?>
 		<section class="container eleven columns">
 			<div class="resume">
 				<h4><strong>Dana Saunders</strong></h4>
-				<h6>4883 Martona Dr., Oak Park, CA 91377 • <a href="tel:818-338-8192">(818) 337-8192</a> • <a href="mailto:dsaunn@gmail.com" target="_top">dsaunn@gmail.com</a></h6>
+				<h6><!-- 4883 Martona Dr.,  -->Oak Park, CA 91377 • <a href="tel:818-338-8192">(818) 337-8192</a> • <a href="mailto:dsaunn@gmail.com" target="_top">dsaunn@gmail.com</a></h6>
 				<br>
 				<h5 id="education" class="botbord">Education<h5>
 				<ul class="edu">

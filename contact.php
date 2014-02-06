@@ -1,17 +1,13 @@
-<?php include 'includes/meta.html'; ?>
-
-	<div class="container">
-		<header class="container sixteen columns">
-			<h1>Dana Saunders' Teaching Portfolio<h1>
-			<h3>A Teacher in the Making – Contact</h3	>
-			<img src="" alt="Banner image" width="" height="">
-		</header>
-		<?php include 'includes/headernav.html'; ?>
+<?php 
+$headerOne = "A Teacher in the Making – Contact Me";
+$section = "contact";
+include 'includes/meta.html'; 
+include 'includes/headernav.php'; ?>
 		<div class="contactinfo">
 			<p>Please enter your information and message in the form below.</br> 
 				I will respond to you shortly. Thank you!</p>
 		</div>
-		<form method="POST" action="#" name="contact_form" class="container six columns" id="contactform">
+		<form method="POST" action="mailto:djsaun@gmail.com" name="contact_form" class="container six columns" id="contactform">
 			<fieldset>
 <!-- 			<input type="hidden" name="To" value="djsaun@gmail.com"></input>
 				<input type="hidden" name="Subject" value="Contact Form Feedback"></input> -->
@@ -32,13 +28,13 @@
 					<textarea name="message" id="message" rows="4" cols="50"></textarea>
 				</div>
 				<div class="submitbtn">
-					<input type="submit" value="Submit">
+					<input type="submit" name="action" value="Submit">
 				</div>
 		</fieldset>
 		</form>
 		<div class="contactbox">
 			<h4>Dana Saunders</h4>
-			<p>4883 Martona Dr., Oak Park, CA 91377</p>
+			<!-- <p>4883 Martona Dr., Oak Park, CA 91377</p> -->
 			<div id="map-canvas"></div>
 			<p>Email: <a href="mailto:dsaunn@gmail.com" target="_top">dsaunn@gmail.com</a></p>
 			<p>Phone: <a class="telephone" href="tel:818-337-8192">818-337-8192</a></p>

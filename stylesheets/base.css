@@ -271,6 +271,7 @@
 		max-width: 100%;
 		width: 100%;
 		height: 4em;
+		margin-bottom: 1em;
 	}
 
 	#footer {
@@ -375,5 +376,10 @@
 	 	margin-bottom: 3em;
 	 }
 
+	.on a {
+	   color: #000;
+	   pointer-events: none;
+	   cursor: default;
+	}
 
 

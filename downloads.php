@@ -1,12 +1,7 @@
-<?php include 'includes/meta.html'; ?>
-
-	<div class="container">
-		<header class="container sixteen columns">
-			<h1>Dana Saunders' Teaching Portfolio<h1>
-			<h3>A Teacher in the Making – Downloads</h3>
-			<img src="" alt="Banner image" width="" height="">
-		</header>
-		<?php include 'includes/headernav.html'; ?>
+<?php 
+$headerOne = "A Teacher in the Making – Downloads";
+include 'includes/meta.html'; 
+include 'includes/headernav.php'; ?>
 		<section class="container eight columns">
 			<p>All files are in the pdf format.</p>
 			<ul class="downloadlist">
