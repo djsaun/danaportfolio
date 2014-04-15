@@ -24,27 +24,27 @@ include 'includes/headernav.php';
 				<ul class="profteach">
 					<li>Fourth Grade Student Teacher (Practicum II)</li>
 					<li>Los Molinos Elementary School, Los Molinos, CA – Spring 2014</li>
-					<li>This will begin in January 2014.</li>
+					<li>Current student teaching placement will be completed in May 2014</li>
 				</ul>
 				<ul class="profteach">
 					<li>Second Grade Student Teacher (Practicum I)</li>
 					<li>Shasta Elementary School, Chico, CA – Fall 2013</li>
+					<li>Responsible for planning and delivering lessons, classroom management, and grading and analyzing work</li>
+					<li>Created and implemented strategies to engage, teach, support, and challenge students</li>
+					<li>Developed wonderful relationships with students, parents, and staff members</li>
 					<li>Participated in parent/teacher conferences and back to school night</li>
 					<li>Implemented a variety of SDAIE strategies to meet needs of all students (including EL students)</li>
-					<li>Soloed for three days formally assuming responsibility for planning and delivering lessons, classroom management, and grading and analyzing work</li>
-					<li>Created and implemented lessons to engage, teach, support, and challenge students</li>
-					<li>Developed wonderful relationships with students, parents, and staff members</li>
 					<li>Implemented positive reinforcement strategies to support classroom management</li>
 					<li>Connected engaging lessons with Common Core standards, content standards, and EL standards</li>
-					<li>Substituted in teacher’s absence</li>
 					<li>Assisted in analyzing student report cards and assessments</li> 
+					<li>Substituted in teacher’s absence</li>
 				</ul>
 				<h5 id="cave" class="botbord">Field Experience Through CAVE (Community Action Volunteers in Education)<h5>
 				<ul class="cave">
 					<li>Intern</li>
 					<li>Math Internship, Chico State, Chico, CA – Spring 2013</li>
-					<li>Worked in small groups (third, fourth, and sixth graders) challenging students with geometry, hands-on problems</li>
-					<li>Collaborated with peers regarding student work and learning</li>
+					<li>Worked in small groups (third, fourth, and sixth graders) implementing challenging math strategies</li>
+					<li>Formal reflection with peers regarding students and the learning process</li>
 				</ul>
 				<ul class="cave">
 					<li>Mild/Moderate Resource Room Classroom Aide</li>
@@ -66,7 +66,7 @@ include 'includes/headernav.php';
 				<ul class="cave">
 					<li>Multiple Grades Teacher Assistant</li>
 					<li>Capay Elementary School Orland, CA – Spring 2012</li>
-					<li>Helped in Kindergarten classroom for small group math work and art projects</li>
+					<li>Assisted in Kindergarten classroom for small group math work and art projects</li>
 					<li>Supported and guided student reading in a first grade classroom</li>
 					<li>Conducted small group science experiments in a fifth grade classroom</li>
 					<li>Observed Special Education Lessons and worked with students with behavior issues</li>
@@ -74,7 +74,7 @@ include 'includes/headernav.php';
 				<ul class="cave">
 					<li>Intern</li>
 					<li>Science Internship, Chico State, Chico, CA – Fall 2011</li>
-					<li>Used hands-on science experiments with groups of students to challenge and teach</li>
+					<li>Implemented hands-on science experiments with groups of students to challenge and teach</li>
 					<li>Connected lessons to California Science Content Standards</li>
 				</ul>	
 				<ul class="cave">

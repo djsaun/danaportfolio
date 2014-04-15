@@ -4,7 +4,7 @@
 		<h3><?php echo $headerOne; ?></h3>
 		<img src="" alt="Banner image" width="" height="">
 	</header>
-<nav class="container five columns">
+<nav class="container four columns">
 	<ul class="navlist">
 		<li <?php if ($section == "home") {echo 'class="on"';} ?>><a href="index.php">Home</a><li>
 		<li <?php if ($section == "resume") {echo 'class="on"';} ?>><a href="resume.php">Resume</a></li>
@@ -23,6 +23,7 @@
 		<li <?php if ($section == "plans") {echo 'class="on"';} ?>><a href="plans.php">Lesson and Unit Plans</a></li>
 		<li <?php if ($section == "assessment") {echo 'class="on"';} ?>><a href="assessment.php">Assessment</a></li>
 		<li <?php if ($section == "contact") {echo 'class="on"';} ?>><a href="contact.php">Contact Me</a></li>
+		<li <?php if ($section == "references") {echo 'class="on"';} ?>><a href="references.php">References</a></li>
 		<li><a href="downloads.php">Downloads</a></li>
 	</ul>
 </nav>

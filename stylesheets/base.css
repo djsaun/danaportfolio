@@ -382,4 +382,45 @@
 	   cursor: default;
 	}
 
+	.schooltitle {
+		margin-top: 20px;
+	}
+
+	ul.ref li {
+		line-height: 6px;
+	}
+
+	li.name {
+		font-size: 1.2em;
+		font-weight: bold;
+		margin-top: 20px;
+	}
+
+	li.position {
+		font-size: 1.1em;
+	}
+
+	div.schooladdress {
+		margin-left: 0px !important;
+		margin-top: 10px;
+	}
+
+	div.schoolcontact {
+		margin-top: 10px;
+	}
+	.danapic {
+		background-image: url('../img/dana_saunders.jpg');
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 306px;
+		height: 376px;
+	}
+
+	.linkedin {
+		background-image: url('../img/linkedin.png');
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 32px;
+		height: 32px;
+	}
 
