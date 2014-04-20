@@ -2,7 +2,7 @@
 	<header class="container sixteen columns">
 		<h1>Dana Saunders' Teaching Profile<h1>
 		<h3><?php echo $headerOne; ?></h3>
-		<img src="" alt="Banner image" width="" height="">
+<!-- 		<img src="" alt="Banner image" width="" height=""> -->
 	</header>
 <nav class="container four columns">
 	<ul class="navlist">
@@ -16,13 +16,15 @@
 				<li><a href="resume.php#highschool">High School Achievements</a></li>
 				<li><a href="resume.php#downloadres">Download</a></li>
 			</ul>
-		<li <?php if ($section == "philosophy") {echo 'class="on"';} ?>><a href="philosophy.php">My Philosophy of Education</a></li>
+		<li <?php if ($section == "finisher") {echo 'class="on"';} ?>><a href="finisher-letter.php">Finisher's Letter</a></li>
+<!-- 		<li <?php if ($section == "philosophy") {echo 'class="on"';} ?>><a href="philosophy.php">My Philosophy of Education</a></li>
 		<li <?php if ($section == "classmgmt") {echo 'class="on"';} ?>><a href="classroommgmt.php">Classroom Management</a></li>
-		<li <?php if ($section == "rec") {echo 'class="on"';} ?>><a href="recommendations.php">Recommendations</a></li>
-		<li <?php if ($section == "eval") {echo 'class="on"';} ?>><a href="evaluations.php">Evaluations</a></li>
+ -->		<li <?php if ($section == "rec") {echo 'class="on"';} ?>><a href="recommendations.php">Recommendations</a></li>
+<!-- 		<li <?php if ($section == "eval") {echo 'class="on"';} ?>><a href="evaluations.php">Evaluations</a></li>
 		<li <?php if ($section == "plans") {echo 'class="on"';} ?>><a href="plans.php">Lesson and Unit Plans</a></li>
 		<li <?php if ($section == "assessment") {echo 'class="on"';} ?>><a href="assessment.php">Assessment</a></li>
-		<li <?php if ($section == "contact") {echo 'class="on"';} ?>><a href="contact.php">Contact Me</a></li>
+ -->	<li <?php if ($section == "awards") {echo 'class="on"';} ?>><a href="awards.php">Awards and Commendations</a></li>
+ 		<li <?php if ($section == "contact") {echo 'class="on"';} ?>><a href="contact.php">Contact Me</a></li>
 		<li <?php if ($section == "references") {echo 'class="on"';} ?>><a href="references.php">References</a></li>
 		<li><a href="downloads.php">Downloads</a></li>
 	</ul>

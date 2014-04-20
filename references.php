@@ -5,7 +5,7 @@ include 'includes/meta.html';
 include 'includes/headernav.php'; ?>
 		<section class="container ten columns">
 			<div class="nine columns">
-			<h5>Los Molinos Elementary, Los Molinos, CA</h5>
+			<h5 class="schooltitleFirst">Los Molinos Elementary, Los Molinos, CA</h5>
 			<ul class="ref">
 				<li class="name">Kristina Zarate</li>
 				<li class="position">Cooperating Teacher, Practicum II</li>
@@ -36,7 +36,7 @@ include 'includes/headernav.php'; ?>
 				</div>
 			</ul>
 		</div>
-			<div class="nine columns">
+		<div class="nine columns">
 			<h5 class="schooltitle">California State University, Chico</h5>
 			<ul class="ref">
 				<li class="name">Lynne Bercaw</li>

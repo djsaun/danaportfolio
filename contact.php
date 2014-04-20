@@ -7,7 +7,7 @@ include 'includes/headernav.php'; ?>
 			<p>Please enter your information and message in the form below.</br> 
 				I will respond to you shortly. Thank you!</p>
 		</div>
-		<form method="POST" action="mailto:djsaun@gmail.com" name="contact_form" class="container six columns" id="contactform">
+		<form method="POST" action="send_form_email.php" name="contact_form" class="container six columns" id="contactform">
 			<fieldset>
 <!-- 			<input type="hidden" name="To" value="djsaun@gmail.com"></input>
 				<input type="hidden" name="Subject" value="Contact Form Feedback"></input> -->
